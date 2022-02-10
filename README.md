@@ -1,7 +1,7 @@
 # Starting
 ## Introducción
 Estos son mis primeros pasos en la programación con Python y en deep learning!
-Hace comencé a estudiar Python y tan solo 2 meses a estudiar deep learning, pero la curiosidad me llevó a intentar aplicar los conocimientos en una pequeña aplicación que pudiera compartir.
+Hace cuatro meses comencé a estudiar Python y tan solo 2 meses a estudiar deep learning, pero la curiosidad me llevó a intentar aplicar los conocimientos en una pequeña aplicación que pudiera compartir.
 Claro que es muy simple y puede mejorar mucho, pero la idea es tener un punto de partida para ir aplicando lo aprendido en las especializaciones que voy cursando.
 
 ## Objetivo de este repositorio

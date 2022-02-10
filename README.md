@@ -16,7 +16,8 @@ Una vez entrenada (que toma un tiempo) usé el comando
 
 Que permite exportar el modelo ya entrenado, para hacer las predicciones sin necesidad de volver a entrenar.
 Esto genera un archivo con extensión .h5 que se debe guardar en la misma carpeta donde se va a desarrollar el proyecto de la aplicación.
-* PrimerProyectoV0.py: es el código que usé para armar la interface y hacer la predicción.
+* PrimerProyectoV0.pyw: es el código que usé para armar la interface y hacer la predicción.
 Yo la corrí en Sublime Text.
+La extención .pyw es para que cuando se abra la aplicación desde ese archivo no se abra la consola por detras.
 ## Desafíos pendientes
 Me quedó pendiente de resolver un detalle (escucho recomendaciones!!): ¿Cómo hacer que la predicción se ejecute luego de clikear un segundo botón?

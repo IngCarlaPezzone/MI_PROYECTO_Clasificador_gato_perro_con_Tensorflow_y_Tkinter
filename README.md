@@ -1,4 +1,4 @@
-# Starting
+# Clasificación de perros y gatos con Tensorflow y Tkinter
 ## Introducción
 Estos son mis primeros pasos en la programación con Python y en deep learning!
 Hace cuatro meses comencé a estudiar Python y tan solo 2 meses a estudiar deep learning, pero la curiosidad me llevó a intentar aplicar los conocimientos en una pequeña aplicación que pudiera compartir.
